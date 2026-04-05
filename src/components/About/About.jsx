@@ -58,7 +58,7 @@ const About = () => {
           <div className="flex flex-col sm:flex-row gap-4 mt-5">
             {/* Resume Button */}
             <a
-              href="https://drive.google.com/file/d/1T3NboNKGrZec7Kih6WRjAj5vsHOGX2aJ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1NCY4Ws0_-_UsBDTh3x2fRsClXRwu5sPv/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-white py-3 px-8 rounded-full text-lg font-bold transition duration-300 transform hover:scale-105 text-center"
